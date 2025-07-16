@@ -30,7 +30,7 @@ website:
 
 format:
   html:
-    theme: flatly, litera, lumen, yeti
+    theme: flatly #, litera, lumen, yeti
     css: styles.css
     toc: true
 
