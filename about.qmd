@@ -5,13 +5,13 @@ about:
   template: broadside
   ##image-width: 
   ##image-alt: 
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+  # links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
 ---
 
 Port Aransas, Texas 78373
@@ -26,9 +26,11 @@ Port Aransas, Texas 78373
 
 ------------------------------------------------------------------------
 
-::: {#hero-heading}
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-:::
+<!-- ::: {#hero-heading} -->
+
+<!-- Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. -->
+
+<!-- ::: -->
 
 Born in Baltimore, Maryland, I am a
 
