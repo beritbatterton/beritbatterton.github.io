@@ -26,12 +26,9 @@ Port Aransas, Texas 78373
 
 ------------------------------------------------------------------------
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-
 :::
-
 
 Born in Baltimore, Maryland, I am a
 
