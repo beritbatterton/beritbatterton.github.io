@@ -1,5 +1,5 @@
 ---
-title: "Berit E. Batterton"
+title: "About"
 image: profile.jpg
 about:
   template: broadside

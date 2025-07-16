@@ -7,24 +7,22 @@ project:
 
 website:
   title: "Berit E. Batterton"
-  site-url: https://beritbatterton.com
   description: "Academic Website"
   navbar:
     pinned: true
     search: true
-    background: ""
     right:
       - text: "Home"
         file: index.qmd
       - about.qmd
       - cv.qmd
-    tools:
-      - icon: envelope
-        href: mailto:b.batterton@utexas.edu
-      - icon: twitter
-        href: https://x.com/botanyberit
-      - icon: bluesky
-        href: https://bsky.app/profile/botanyberit.bsky.social
+    # tools:
+    #   - icon: envelope
+    #     href: mailto:b.batterton@utexas.edu
+    #   - icon: twitter
+    #     href: https://x.com/botanyberit
+    #   - icon: bluesky
+    #     href: https://bsky.app/profile/botanyberit.bsky.social
         
   page-footer: "2025- Berit Batterton" 
 
