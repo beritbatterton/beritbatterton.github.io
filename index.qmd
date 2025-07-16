@@ -1,0 +1,15 @@
+---
+title: "<span style = 'display:none;'>Berit E. Batterton</span>"
+---
+
+Hi! I'm Berit Batterton, a PhD Candidate at the University of Texas at Austin Marine Science Institute.
+
+------------------------------------------------------------------------
+
+```{r}
+#| include: false
+# Prompt R
+Sys.Date()
+```
+
+Created with Quarto by Berit Batterton; Updated `r as.character(Sys.Date())`

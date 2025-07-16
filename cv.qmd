@@ -1,0 +1,142 @@
+---
+title: "Academic Activities & CV"
+toc: true
+---
+
+```{r, include = FALSE}
+source("pre-render.R")
+```
+
+## Education
+
+**PhD (2020 – 2026)** University of Texas at Austin, Marine Science Institute\
+Supervisor: Dr. Kenneth H. Dunton\
+Thesis: Climate change impacts on carbon and water dynamics in Texas’ estuarine marshes
+
+**BA (2016 – 2020)** University of Pennsylvania, Honors Environmental Science and Biology\
+Supervisor: Dr. Jane Dmochowski\
+Thesis: Using remote sensing to study effects of dam sediment capacity on seagrass in the Chesapeake Bay
+
+## Professional Experience
+
+**Graduate Research Assistant (2020 – 2025)** University of Texas at Austin, Marine Science\
+Supervisor: Dr. Kenneth H. Dunton
+
+**Undergraduate Research Assistant (2019 – 2020)** University of Pennsylvania, Earth & Environmental Sciences\
+Supervisor: Dr. Jane Dmochowski
+
+**Undergraduate Research Assistant (2018 – 2019)** University of Pennsylvania, Biology\
+Supervisor: Dr. Nick Betley
+
+## Publications
+
+## Presentations
+
+## Teaching & Outreach
+
+#### Formal teaching
+
+```{r}
+tibble(dates = c(2025, 2023, 2023, 2022, "2021, 2022", paste("2021", "\u2013", "2022"), 2020, 2020, 2019, paste("2016", "\u2013", "2020")),
+       content = c(
+         paste("**MNS 191 Science Communication** (Guest Lecturer) University of Texas Marine Science Institute (Port Aransas, TX)"),
+         paste("**MNS 354C Biology of Fishes** (Graduate Teaching Assistant) University of Texas Marine Science Institute (Port Aransas, TX)"),
+         paste("**MNS 357 Marine Phytoplankton Diversity** (Graduate Teaching Assistant) University of Texas Marine Science Institute (Port Aransas, TX)"),
+         paste("**MNS 352C Estuarine Ecology** (Graduate Teaching Assistant & Guest Lecturer) University of Texas Marine Science Institute (Port Aransas, TX)"),
+         paste("**MNS 120L Field Methods in Marine Ecology** (Graduate Teaching Assistant) University of Texas Marine Science Institute (Port Aransas, TX)"),
+         paste("**4-5 and 8th Grade Science** (Scientist-in-Residence Fellow) Port Aransas Independent School District (Port Aransas, TX)"),
+         paste("**MNS 307 Introduction to Oceanography** (Graduate Teaching Assistant) University of Texas at Austin (Austin, TX)"),
+         paste("**MNS 101 Seminar in Marine Science** (Graduate Teaching Assistant) University of Texas at Austin (Austin, TX)"),
+         paste("**GEOL 100 Introduction to Geology** (Undergraduate Teaching Assistant) University of Pennsylvania (Philadelphia, PA)"),
+         paste("**Biology, Ecology, Geology, Env. Sci., Physics, Spanish** (Peer Tutor) University of Pennsylvania (Philadelphia, PA)"))) %>%
+  fmt_gt()
+```
+
+#### Pedagogical development
+
+```{r}
+
+tibble(dates = c(paste("2020", "\u2013", "2025"), paste("2021", "\u2013", "2025"), 2023, 2020),
+       content = c(
+         paste("**Concentration in Teaching and Mentoring** University of Texas at Austin (College of Natural Sciences)"),
+         paste("**Advanced Teaching Preparation Certification** University of Texas at Austin (Center for Teaching & Learning)"),
+         paste("**Inclusive Classrooms Leadership Certification** University of Texas at Austin (Division of Diversity & Community Engagement)"),
+         paste("**GRS 097 Fundamentals of Teaching** University of Texas at Austin (Center for Teaching & Learning)"))) %>%
+  fmt_gt()
+```
+
+#### Community service
+
+```{r}
+tibble(dates = c(paste("2024", "\u2013", "present"), paste("2021", "\u2013", "present"), 2025, 2025, 2024, paste("2023", "\u2013", "2024"), paste("2022", "\u2013", "2024"), paste("2022", "\u2013", "2024"), 2023, 2022, 2022, paste("2018", "\u2013", "2020"), paste("2018", "\u2013", "2020")),
+       content = c(
+         paste("**Letters to a Pre-Scientist** Pen Pal"),
+         paste("**4/5 and 8th Grade Science Fair** Judge (Port Aransas Independent School District- Port Aransas, TX)"),
+         paste("**Texas Bays and Estuaries Meeting** Volunteer (Port Aransas, TX)"),
+         paste("**University of Texas Marine Science Institute Women in Marine Science Day** Volunteer (Port Aransas, TX)"),
+         paste("**University of Texas Marine Science Institute Island Science Day** Volunteer (Port Aransas, TX)"),
+         paste("**University of Texas at Austin STEM Girl Day** Volunteer (Austin, TX)"),
+         paste("**Texas Bays and Estuaries Meeting** Planning Committee (Port Aransas, TX)"),
+         paste("**University of Texas Marine Science Institute Summer Science Camp** Instructor (Port Aransas, TX)"),
+         paste("**University of Texas at Austin Undergraduate Research Forum** Judge (Austin, TX)"),
+         paste("**University of Texas at Austin Society for the Advancement of Gender Equity in STEM** Mentor (Austin, TX)"),
+         paste("**Port Aransas Whooping Crane Festival** Volunteer (Port Aransas, TX)"),
+         paste("**Independence Big Brothers Big Sisters** Mentor (Philadelphia, PA)"),
+         paste("**West Philadelphia Tutoring Project** Volunteer (Philadelphia, PA)")
+         )) %>%
+  fmt_gt()
+```
+
+## Academic Activities
+
+#### Undergraduate Mentoring
+
+**2024** Sophia McKelvey, University of Texas at Austin Environmental Science Capstone Project\
+**2023** Carole-Lynna Benhamou, University of Texas at Austin Environmental Science Capstone Project\
+**2023** Malvika Patil, University of Texas at Austin Independent Research Project\
+**2021-2022** Mona Birgisson, University of Texas Marine Science Institute Semester-by-the-Sea Research Project
+
+#### Professional Service
+
+**2023-present** Ad-Hoc Reviewer, Aquatic Botany\
+**2024** Graduate Education Improvement Committee, University of Texas Marine Science Institute\
+**2023–2024** Abstract Review Committee, Society for Wetland Scientists Student Virtual Conference\
+**2023-2024** President, University of Texas Marine Science Institute Graduate Student Association\
+**2023-2024** Dean’s Office Graduate Council, University of Texas at Austin\
+**2023-2024** “Emerging Voices in Botany” Special Issue Award Review Panel, Annals of Botany Plants\
+**2022-2023** Vice President, University of Texas Marine Science Institute Graduate Student Association\
+**2022** Interim Marine Science Coordinator, University of Texas at Austin\
+**2021-2022** Social Coordinator, University of Texas Marine Science Institute Graduate Student Association
+
+#### Professional Societies
+
+-   Ecological Society of America
+-   Association for the Sciences of Limnology and Oceanography
+-   Coastal and Estuarine Research Federation
+-   Ecological Forecasting Initiative
+-   Society for Wetland Scientists
+-   International Association for Vegetation Science
+-   National Marine Educators Association
+-   Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology
+-   Society for Women in Marine Science
+
+## Awards and Scholarships
+
+-   The Honor Society of Phi Kappa Phi (2025 –present)
+-   American Philosophical Society Lewis & Clark Fund for Exploration and Field Research Grant (2024 – 2025)
+-   University of Texas at Austin University Graduate Continuing Fellowship (2024 – 2025)
+-   Texas Gulf Coast Research Center Predoctoral Award (2024 – 2025)
+-   University of Texas Marine Science Institute Marine Science Research Award (2022 – 2025)
+-   University of Texas Marine Science Institute Student Research Excellence Award (2025)
+-   University of Texas at Austin Graduate School Summer Fellowship (2023)
+-   Coastal Conservation Association Scholarship (2023)
+-   Texas Chapter of the American Fisheries Society Student Scholarship (2023)
+-   Southern Association of Marine Laboratories Larry Pomeroy Student Support Award (2023)
+-   Coastal and Estuarine Research Federation Conference Travel Grant (2022 & 2023)
+-   National Science Foundation Graduate Research Fellowship Program (GRFP) Honorable Mention (2022)
+-   University of Texas at Austin Graduate School Professional Development Award (2022)
+-   University of Pennsylvania Rosalie Gilles Scholarship (2018 – 2020)
+-   University of Pennsylvania James & Gail Riepe Scholarship (2016 – 2020)
+-   University of Pennsylvania Fritzi K. Hallock Scholarship (2016 – 2020)
+-   University of Pennsylvania Hayden Scholars Research Fellowship (2019)
+-   National Fastpitch Coaches Association Scholar-Athlete All-America (2017, 2019)
