@@ -1,15 +1,32 @@
 ---
 title: "<span style = 'display:none;'>Berit E. Batterton</span>"
+format: html
+toc: false
 ---
+
+![](files/banner.jpg){.hidden}
+
+::: {.splash-header .text-center}
+# Berit Batterton
+
+### PhD Candidate · Coastal Plant Ecology & Biogeochemistry
+
+[View CV](cv.qmd){.btn .btn-primary}\
+[Contact](mailto:b.batterton@utexas.edu){.btn .btn-outline}
+:::
+
+::: justify
+# Welcome
 
 Hi! I'm Berit Batterton, a PhD Candidate at the University of Texas at Austin Marine Science Institute.
 
+I study how coastal salt marsh ecosystems respond to climate change, with a focus on vegetation dynamics and carbon cycling. My research combines long-term ecological monitoring, plant functional traits, and remote sensing to understand how drought, sea-level rise, and freshwater availability affect salt marsh plant communities and their capacity to sequester carbon. I investigate these dynamics across multiple spatial and temporal scales — from physiological trait variation within species to landscape-scale carbon stock modeling — primarily in estuarine marshes along the Texas coast. This work supports efforts to predict marsh responses to future climate scenarios and inform restoration and management strategies in vulnerable coastal systems.
+
+→ Curious about my work? Learn more [about me](about.qmd), explore my [research and CV](cv.qmd).
+
+<!-- , or catch up on recent [updates](news.qmd) from the field. -->
+:::
+
 ------------------------------------------------------------------------
 
-```{r}
-#| include: false
-# Prompt R
-Sys.Date()
-```
-
-Created with Quarto by Berit Batterton; Updated `r as.character(Sys.Date())`
+Created with Quarto by Berit Batterton

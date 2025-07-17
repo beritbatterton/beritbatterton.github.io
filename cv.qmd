@@ -1,11 +1,14 @@
 ---
-title: "Academic Activities & CV"
+title: "CV"
+format: html
 toc: true
 ---
 
 ```{r, include = FALSE}
 source("pre-render.R")
 ```
+
+[Download my CV (PDF)](Batterton_CV_July2025.pdf)
 
 ## Education
 
@@ -30,7 +33,15 @@ Supervisor: Dr. Nick Betley
 
 ## Publications
 
+```{=html}
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/9Koszf53weC38JZgG/all_files.bib&filter=keywords:rev&filter=keywords:other&group0=year&nocache=1&authorFirst=1&jsonp=1"></script>
+```
+
 ## Presentations
+
+```{=html}
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/9Koszf53weC38JZgG/all_files.bib&filter=keywords:pres&group0=year&nocache=1&authorFirst=1&jsonp=1"></script>
+```
 
 ## Teaching & Outreach
 

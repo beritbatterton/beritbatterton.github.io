@@ -1,0 +1,9 @@
+```{r}
+#| include: false
+# Prompt R
+Sys.Date()
+```
+
+::: {.footer .text-left}
+Berit Batterton - `r as.character(year(Sys.Date()))`
+:::

@@ -1,6 +1,7 @@
 ---
 title: "About"
-image: profile.jpg
+image: files/profile2.jpg
+format: html
 about:
   template: broadside
   ##image-width: 
@@ -16,21 +17,15 @@ about:
 
 Port Aransas, Texas 78373
 
-<!-- **Phone:** 443-690-0287\ -->
-<!-- **Email:** [b.batterton\@utexas.edu](mailto:b.batterton@utexas.edu)\ -->
-<!-- **Twitter:** [\@botanyberit](https://x.com/botanyberit)\ -->
-<!-- **Bluesky:** [\@botanyberit](https://bsky.app/profile/botanyberit.bsky.social) -->
+**Phone:** 443-690-0287\
+**Email:** [b.batterton\@utexas.edu](mailto:b.batterton@utexas.edu)\
+**Twitter:** [\@botanyberit](https://x.com/botanyberit)\
+**Bluesky:** [\@botanyberit](https://bsky.app/profile/botanyberit.bsky.social)
 
-<!-- **ResearchGate:** <https://www.researchgate.net/profile/Berit-Batterton>\ -->
-<!-- **ORCID:** <https://orcid.org/0000-0002-3606-6517> -->
+**ResearchGate:** <https://www.researchgate.net/profile/Berit-Batterton>\
+**ORCID:** <https://orcid.org/0000-0002-3606-6517>
 
 ------------------------------------------------------------------------
-
-<!-- ::: {#hero-heading} -->
-
-<!-- Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. -->
-
-<!-- ::: -->
 
 Born in Baltimore, Maryland, I am a
 

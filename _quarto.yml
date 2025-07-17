@@ -7,6 +7,7 @@ project:
 
 website:
   title: "Berit E. Batterton"
+  favicon: files/Draft_favicon.png
   description: "Academic Website"
   navbar:
     pinned: true
@@ -16,25 +17,34 @@ website:
         file: index.qmd
       - about.qmd
       - cv.qmd
-    # tools:
-    #   - icon: envelope
-    #     href: mailto:b.batterton@utexas.edu
+    tools:
+      - icon: envelope
+        href: mailto:b.batterton@utexas.edu
+      # - icon: github
+      #   href: https://github.com/beritbatterton
     #   - icon: twitter
     #     href: https://x.com/botanyberit
     #   - icon: bluesky
     #     href: https://bsky.app/profile/botanyberit.bsky.social
         
-  page-footer: "2025- Berit Batterton" 
+  page-footer:
+      background: light
+      left: >
+        Berit Batterton - <script>document.write(new Date().getFullYear())</script>
+      right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/beritbatterton/beritbatterton.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 
 format:
   html:
-    theme: flatly #, litera, lumen, yeti
-    css: styles.css
+    css: styles.scss
+    # mainfont: Sen
     toc: true
+    page-layout: full
 
-editor: visual
+editor: source
 
 execute:
+  enabled: true
   echo: false
   message: false
 
