@@ -1,0 +1,23 @@
+- name: Wetland Monitoring
+  topics: Climate Change Biology, Data Science, Water Quality
+  region: Local, Regional
+  description: I have led seagrass monitoring efforts as the Field and Data Manager for the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) since 2020. As part of these roles I oversee collection and analysis of data from over 800 sites across the Texas coast as part of our annual Tier-2 surveys. I work closely and coordinate with various agencies including the National Park Service, Texas Parks and Wildlife, and the Texas Commision on Environmental Quality. Recently, we have noted rapid changes in the Upper Laguna Madre ecosystem and found a decline in seagrasses attributed to [sea level rise](https://www.nature.com/articles/s43247-024-01236-7). Currently, I am working to analyze broader scale trends across the Texas coast since our monitoring began in 2011.
+  image: seagrass_monitoring.JPG
+
+- name: Functional Ecology
+  topics: Blue Carbon, Data Science, Physiology
+  region: Local, Regional
+  description: Acoustics are becoming recognized as powerful tools by a variety of ecologists and biologists, but plant acoustics are relatively understudied. I have collaborated with a research group led by Drs. [Megan Ballard](https://scholar.google.com/citations?user=9uowGbwAAAAJ&hl=en) and [Kevin Lee](https://scholar.google.com/citations?user=d0tO02kAAAAJ&hl=en) on advancing our ability to use acoustics as a tool for monitoring seagrasses. So far, the group has developed a [new effective medium model](https://pubs.aip.org/asa/poma/article/51/1/010003/3267870/Effective-medium-modeling-of-acoustic-propagation) to describe seagrass sound propagation in a meadow, has designed and deployed an active acoustic system capable of measuring seagrass biomass and productivity, demonstrated that seagrass ebullition is an important component of net ecosystem metabolism, and shown that passive acoustics are viable for measuring seagrass production.
+  image: acoustics.png
+
+- name: Plant Ecophysiology
+  topics: Photosynthesis, Stress Tolerance, Data Science, Climate Change Biology
+  region: Local, Regional
+  description: Plants are dynamic organisms that rapidly respond to their environment through changes in their metabolic state. Our current era, the Anthropocene, has produced unexpected environmental conditions that plants must adapt to or face elimination.  I am inter we're experiencing unprecedented changes that plants are forced to adapt to or face elimination. Consequently, I am interested in quantifying the limits of plant survival in the context of a changing environment. I have identified that <i> Grateloupia turuturu </i> is highly tolerant to [reactive oxygen stress](https://www.degruyter.com/document/doi/10.1515/bot-2018-0104/html), the ultimate stress pathway. This allows it to be a highly competitive invasive species. Furthermore, I have been working on quantifying the [desiccation tolerance](https://www.biorxiv.org/content/10.1101/2024.01.16.575902v1.abstract) of subtidal seagrasses using various techniques.
+  image: grat.jpg
+
+- name: Coastal Biogeochemistry
+  topics: Blue Carbon, Data Science, Nitrogen Cycling
+  region: Local, Regional
+  description: Coastal environmentals are hotspots are elements vital to life including carbon, nitrogen, and phospohrous. I'm deeply interested in the complex cycles of such elements in coastal environments and how "plants" interact with them. Currently, I am building budgets of organic and inorganic carbon, as well as nitrogen in sediments collected from seagrass meadows across the Western and Northern Gulf of Mexico. This effort is paired with the [Texas Seagrass Monitoring Program](https://texasseagrass.org/) and the [Coastal Ecology & Seagrass Biology Lab](https://www.darnellseagrassecologylab.com/). This will provide resource managers valuable information to ascertain sequestration potential in a rapidly changing climate.
+  image: seds.jpg

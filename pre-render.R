@@ -5,6 +5,7 @@ library(stringr)
 library(RefManageR)
 library(readODS)
 library(gt)
+library(yaml)
 
 # source("~/Documents/Resumes/functions.R")
 

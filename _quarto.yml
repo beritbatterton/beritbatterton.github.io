@@ -1,32 +1,31 @@
 project:
   type: website
   output-dir: docs
+  # lib-dir: _layouts/default.html
   render: 
     - "*.qmd"
     - "!teaching.qmd"
 
 website:
   title: "Berit E. Batterton"
+  description: Academic website of Berit E. Batterton
+  site-url: "https://beritbatterton.github.io/"
   favicon: files/Draft_favicon.png
-  description: "Academic Website"
   navbar:
     pinned: true
     search: true
     right:
       - text: "Home"
         file: index.qmd
-      - about.qmd
-      - cv.qmd
+      - text: "About"
+        file: about.qmd
+      - publications.qmd
+      - presentations.qmd
+      - research.qmd
+      - teaching.qmd
     tools:
       - icon: envelope
         href: mailto:b.batterton@utexas.edu
-      # - icon: github
-      #   href: https://github.com/beritbatterton
-    #   - icon: twitter
-    #     href: https://x.com/botanyberit
-    #   - icon: bluesky
-    #     href: https://bsky.app/profile/botanyberit.bsky.social
-        
   page-footer:
       background: light
       left: >
@@ -37,9 +36,11 @@ website:
 format:
   html:
     css: styles.scss
-    # mainfont: Sen
+    # mainfont:
     toc: true
     page-layout: full
+    includes:
+      - _bootstrap-mixins.scss
 
 editor: source
 

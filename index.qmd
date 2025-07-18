@@ -16,15 +16,13 @@ toc: false
 :::
 
 ::: justify
-# Welcome
+# Welcome!
 
-Hi! I'm Berit Batterton, a PhD Candidate at the University of Texas at Austin Marine Science Institute.
+Hi, I'm Berit Batterton, a PhD Candidate at the University of Texas at Austin Marine Science Institute.
 
 I study how coastal salt marsh ecosystems respond to climate change, with a focus on vegetation dynamics and carbon cycling. My research combines long-term ecological monitoring, plant functional traits, and remote sensing to understand how drought, sea-level rise, and freshwater availability affect salt marsh plant communities and their capacity to sequester carbon. I investigate these dynamics across multiple spatial and temporal scales — from physiological trait variation within species to landscape-scale carbon stock modeling — primarily in estuarine marshes along the Texas coast. This work supports efforts to predict marsh responses to future climate scenarios and inform restoration and management strategies in vulnerable coastal systems.
 
-→ Curious about my work? Learn more [about me](about.qmd), explore my [research and CV](cv.qmd).
-
-<!-- , or catch up on recent [updates](news.qmd) from the field. -->
+→ Curious about my work? Learn more [about me](about.qmd), explore my [research and CV](cv.qmd), or catch up on recent [updates](news.qmd) from the field.
 :::
 
 ------------------------------------------------------------------------

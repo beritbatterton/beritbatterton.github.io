@@ -1,36 +1,40 @@
 ---
-title: "About"
-image: files/profile2.jpg
+display: grid
+toc: false
+#permalink: /about/
 format: html
-about:
-  template: broadside
-  ##image-width: 
-  ##image-alt: 
-  # links:
-  #   - icon: twitter
-  #     text: twitter
-  #     href: https://twitter.com
-  #   - icon: github
-  #     text: Github
-  #     href: https://github.com
+metadata-files: 
+  - _info.yml
+  # - _grants.yml
+  # - fellowships.yml
+  # - awards.yml
+  # - sponsors.yml
 ---
+:::::: {.jumbotron}
 
-Port Aransas, Texas 78373
+::::: {.row}
 
-**Phone:** 443-690-0287\
-**Email:** [b.batterton\@utexas.edu](mailto:b.batterton@utexas.edu)\
-**Twitter:** [\@botanyberit](https://x.com/botanyberit)\
-**Bluesky:** [\@botanyberit](https://bsky.app/profile/botanyberit.bsky.social)
+::: {.col-sm-4}
+![]({{< meta image >}}){fig-alt="Berit Batterton" width="100%" style="max-width:250px"}
+:::
 
-**ResearchGate:** <https://www.researchgate.net/profile/Berit-Batterton>\
-**ORCID:** <https://orcid.org/0000-0002-3606-6517>
+:::: {.col-sm-8 .col-xs-12}
+[{{< meta name >}}]{.h3}
 
-------------------------------------------------------------------------
+[*{{< meta info >}}*]{.h4}
 
-Born in Baltimore, Maryland, I am a
+[{{< fa square-envelope size=3x >}}](mailto:{{< meta email >}}){.btn .btn-primary}
+[{{< ai cv-square size=3x >}}]({{< meta cv >}}){.btn .btn-primary}
+[{{< ai google-scholar-square size=3x >}}]({{< meta scholar >}}){.btn .btn-primary}
+[{{< fa brands square-github size=3x >}}]({{< meta github >}}){.btn .btn-primary}
+[{{< ai researchgate-square size=3x >}}]({{< meta researchgate >}}){.btn .btn-primary}
+[{{< ai orcid-square size=3x >}}]({{< meta orcid >}}){.btn .btn-primary}
+[{{< fa brands square-x-twitter size=3x >}}]({{< meta twitter >}}){.btn .btn-primary}
 
-<!-- I'm a [behavioural ecologist](cv.html#education) with an interest in how humans influence behaviour of animals and how citizen science projects can be used to do great science and engage the public. -->
+-   {{< meta education.1 >}}
+-   {{< meta education.2 >}}
+::::
 
-<!-- I enjoy [teaching](cv.html#teaching) and [outreach](cv.html#community-presentations-and-outreach) and try to spread the love of R and make science more accessible. -->
+:::::
 
-Outside of work, I love travelling, be it camping locally (with my kitties!) or flying to visit more distant destinations. But I also enjoy stay-at-home activities such as reading, gardening and spinning wool into yarn.
+::::::
