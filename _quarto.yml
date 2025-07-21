@@ -1,7 +1,6 @@
 project:
   type: website
   output-dir: docs
-  # lib-dir: _layouts
   render: 
     - "*.qmd"
     - "!teaching.qmd"

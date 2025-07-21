@@ -26,5 +26,3 @@ I study how coastal salt marsh ecosystems respond to climate change, with a focu
 :::
 
 ------------------------------------------------------------------------
-
-Created with Quarto by Berit Batterton
