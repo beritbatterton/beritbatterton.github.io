@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  # lib-dir: _layouts/default.html
+  # lib-dir: _layouts
   render: 
     - "*.qmd"
     - "!teaching.qmd"
@@ -39,8 +39,6 @@ format:
     # mainfont:
     toc: true
     page-layout: full
-    includes:
-      - _bootstrap-mixins.scss
 
 editor: source
 

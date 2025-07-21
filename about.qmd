@@ -10,15 +10,17 @@ metadata-files:
   # - awards.yml
   # - sponsors.yml
 ---
+::::::::: {.container-fluid}
+
 :::::: {.jumbotron}
 
-::::: {.row}
+::::: {.grid}
 
-::: {.col-sm-4}
-![]({{< meta image >}}){fig-alt="Berit Batterton" width="100%" style="max-width:250px"}
+::: {.g-col-sm-4}
+![]({{< meta image >}}){fig-alt="Berit Batterton" style="max-width:250px" style="border-radius:5%"}
 :::
 
-:::: {.col-sm-8 .col-xs-12}
+:::: {.g-col-sm-8 .g-col-xs-12}
 [{{< meta name >}}]{.h3}
 
 [*{{< meta info >}}*]{.h4}
@@ -31,10 +33,15 @@ metadata-files:
 [{{< ai orcid-square size=3x >}}]({{< meta orcid >}}){.btn .btn-primary}
 [{{< fa brands square-x-twitter size=3x >}}]({{< meta twitter >}}){.btn .btn-primary}
 
+::: {.ul}
 -   {{< meta education.1 >}}
 -   {{< meta education.2 >}}
+:::
+
 ::::
 
 :::::
 
 ::::::
+
+:::::::::
