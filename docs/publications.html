@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>publications – Berit E. Batterton</title>
+<title>Publications – Berit E. Batterton</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -108,9 +108,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <span class="nav-link">
-<span class="menu-text">research.qmd</span>
-    </span>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="./teaching.qmd"> 
@@ -133,7 +132,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#manuscripts-in-prep" id="toc-manuscripts-in-prep" class="nav-link active" data-scroll-target="#manuscripts-in-prep">Manuscripts In Prep</a></li>
+  <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link" data-scroll-target="#journal-articles">Journal Articles</a></li>
+  <li><a href="#conference-proceedings" id="toc-conference-proceedings" class="nav-link" data-scroll-target="#conference-proceedings">Conference Proceedings</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
   </ul>
 </nav>
     </div>
@@ -142,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">publications</h1>
+<h1 class="title">Publications</h1>
 </div>
 
 
@@ -159,6 +161,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<style>
+.jumbotron{
+    padding:3%;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top:10px;
+    margin-bottom:30px;
+}
+</style>
+<section id="manuscripts-in-prep" class="level3 jumbotron">
+<h3 class="anchored" data-anchor-id="manuscripts-in-prep">Manuscripts In Prep</h3>
+<p>{% bibliography –query <span class="citation" data-cites="unpublished">@unpublished</span> %}</p>
+</section>
+<section id="journal-articles" class="level3 jumbotron">
+<h3 class="anchored" data-anchor-id="journal-articles">Journal Articles</h3>
+<p>{% bibliography –query <span class="citation" data-cites="article">@article</span> %}</p>
+</section>
+<section id="conference-proceedings" class="level3 jumbotron">
+<h3 class="anchored" data-anchor-id="conference-proceedings">Conference Proceedings</h3>
+<p>{% bibliography –query <span class="citation" data-cites="inproceedings">@inproceedings</span> %}</p>
+</section>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
 <script src="https://bibbase.org/show?bib=https://bibbase.org/f/9Koszf53weC38JZgG/all_files.bib&amp;filter=keywords:rev,keywords:other&amp;group0=year&amp;nocache=1&amp;authorFirst=1&amp;jsonp=1"></script>
