@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -82,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Berit E. Batterton</span>
+    <span class="navbar-title"><strong>Berit E. Batterton</strong></span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -107,14 +127,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./presentations.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching and Outreach</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -127,20 +139,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#manuscripts-in-prep" id="toc-manuscripts-in-prep" class="nav-link active" data-scroll-target="#manuscripts-in-prep">Manuscripts In Prep</a></li>
-  <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link" data-scroll-target="#journal-articles">Journal Articles</a></li>
-  <li><a href="#conference-proceedings" id="toc-conference-proceedings" class="nav-link" data-scroll-target="#conference-proceedings">Conference Proceedings</a></li>
-  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -149,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -161,33 +162,58 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<style>
-.jumbotron{
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
-}
-</style>
-<section id="manuscripts-in-prep" class="level3 jumbotron">
-<h3 class="anchored" data-anchor-id="manuscripts-in-prep">Manuscripts In Prep</h3>
-<p>{% bibliography –query <span class="citation" data-cites="unpublished">@unpublished</span> %}</p>
+<div class="container-fluid">
+<!-- :::::: {.jumbotron} -->
+<!-- ### Manuscripts In Prep -->
+<!-- :::: {#refs-rev keyword="rev} -->
+<!-- @* -->
+<!-- :::: -->
+<!-- :::::: -->
+<section id="peer-reviewed-articles-chapters" class="level3 jumbotron">
+<h3 class="anchored" data-anchor-id="peer-reviewed-articles-chapters">Peer-Reviewed Articles &amp; Chapters</h3>
+<div id="refs-rev" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-montagna_submerged_2025" class="csl-entry" role="listitem">
+1. Capistrant-Fossa, K. A., Batterton, B. E., &amp; Dunton, K. H. (2025). Submerged aquatic vegetation, marshes, and mangroves. In P. A. Montagna &amp; A. R. Douglas (Eds.), <em><span class="nocase">Freshwater Inflows to Texas Bays and Estuaries: A Regional-Scale Review, Synthesis, and Recommendations</span></em> (pp. 231–257). Springer Cham. <a href="https://doi.org/10.1007/978-3-031-70882-4_10">https://doi.org/10.1007/978-3-031-70882-4_10</a>
+</div>
+<div id="ref-batterton_framework_2024" class="csl-entry" role="listitem">
+2. Batterton, B. E., Neill, C. M., Biggs, C. R., &amp; Rempel, H. S. (2024). A framework for training graduate students and campus communities in inclusive teaching. <em>Journal of Microbiology &amp; Biology Education</em>, <em>25</em>(3), e00125–24. <a href="https://doi.org/10.1128/jmbe.00125-24">https://doi.org/10.1128/jmbe.00125-24</a>
+</div>
+</div>
 </section>
-<section id="journal-articles" class="level3 jumbotron">
-<h3 class="anchored" data-anchor-id="journal-articles">Journal Articles</h3>
-<p>{% bibliography –query <span class="citation" data-cites="article">@article</span> %}</p>
+<section id="technical-reports-etc." class="level3 jumbotron">
+<h3 class="anchored" data-anchor-id="technical-reports-etc.">Technical Reports, Etc.</h3>
+<div id="refs-other" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-batterton_use_2024" class="csl-entry" role="listitem">
+1. Batterton, B. E., Person, M. A., &amp; Dunton, K. H. (2024). <em>Use of historical data to assess climate change effects: <span>Nueces Delta</span></em> (Final Report to Coastal Bend Bays and Estuaries Program 184; p. 43). University of Texas at Austin Marine Science Institute.
+</div>
+<div id="ref-batterton_relative_2024" class="csl-entry" role="listitem">
+2. Batterton, B. E., Swanson, K., &amp; Dunton, K. H. (2024). <em>Relative sea level rise and habitat assessment in the <span>Nueces Delta</span></em> [Final Report to Coastal Bend Bays and Estuaries Program]. University of Texas at Austin Marine Science Institute.
+</div>
+<div id="ref-batterton_relative_2023" class="csl-entry" role="listitem">
+3. Batterton, B. E., Swanson, K., &amp; Dunton, K. H. (2023). <em>Relative sea level rise and habitat assessment in the <span>Nueces Delta</span></em> (Final Report to Coastal Bend Bays and Estuaries Program 163; p. 23). University of Texas at Austin Marine Science Institute.
+</div>
+<div id="ref-batterton_lavaca_2022" class="csl-entry" role="listitem">
+4. Batterton, B. E., &amp; Dunton, K. H. (2022). <em><span>Lavaca River Delta</span> marsh assessment</em> (Final Report to Texas Water Development Board 2000012439; p. 109). University of Texas at Austin Marine Science Institute.
+</div>
+</div>
 </section>
-<section id="conference-proceedings" class="level3 jumbotron">
-<h3 class="anchored" data-anchor-id="conference-proceedings">Conference Proceedings</h3>
-<p>{% bibliography –query <span class="citation" data-cites="inproceedings">@inproceedings</span> %}</p>
+<section id="miscellaneous" class="level3 jumbotron">
+<h3 class="anchored" data-anchor-id="miscellaneous">Miscellaneous</h3>
+<div id="refs-misc" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-rempel_4-5th_2024" class="csl-entry" role="listitem">
+1. Rempel, H. S., Batterton, B. E., Neill, C. M., &amp; Biggs, C. R. (2024). <em>4-5th grade lesson on the amazing adaptations of earth’s organisms</em>. <span>OER</span> Commons. <a href="https://oercommons.org/courseware/lesson/117333">https://oercommons.org/courseware/lesson/117333</a>
+</div>
+<div id="ref-batterton_joys_2023" class="csl-entry" role="listitem">
+2. Batterton, B. E. (2023). Joys of marsh field work. <em>Port Aransas South Jetty</em>. <a href="https://www.portasouthjetty.com/articles/joys-of-marsh-field-work/">https://www.portasouthjetty.com/articles/joys-of-marsh-field-work/</a>
+</div>
+<div id="ref-batterton_please_2023" class="csl-entry" role="listitem">
+3. Batterton, B. E. (2023). Please send my thanks to the kids. <em>Port Aransas South Jetty</em>. <a href="https://www.portasouthjetty.com/articles/please-send-my-thanks-to-the-kids/">https://www.portasouthjetty.com/articles/please-send-my-thanks-to-the-kids/</a>
+</div>
+</div>
 </section>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/9Koszf53weC38JZgG/all_files.bib&amp;filter=keywords:rev,keywords:other&amp;group0=year&amp;nocache=1&amp;authorFirst=1&amp;jsonp=1"></script>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

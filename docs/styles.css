@@ -73,28 +73,18 @@ h2 {
 
 h3 {
   font-weight: 500;
-  color: var(--bs-heading-color);
+  color: #546A7B;
   margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.2;
 }
 
-/*h3,
-h4 {
-  opacity: 0.9;
-  margin-top: 1.5rem;
-}*/
 h4 {
   font-weight: 500;
-  color: var(--bs-heading-color);
+  color: #546A7B;
   margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.2;
-}
-
-h5,
-h6 {
-  opacity: 0.9;
 }
 
 .nav-link.active .header-section-number {
@@ -320,16 +310,18 @@ li {
 }
 
 .jumbotron {
+  box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1);
   text-align: left;
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   box-sizing: border-box;
   background-color: #F8FBFC;
   border-radius: 0.3rem;
-  padding: 20px;
-  padding-bottom: 7px;
-  margin-top: 22px;
-  margin-bottom: 22px;
+  padding: 3%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 img {
@@ -432,6 +424,45 @@ sup {
 
 .overflow-hidden {
   overflow: hidden !important;
+}
+
+#refs {
+  margin-top: 2em;
+  font-size: 1rem;
+  text-align: justify;
+}
+
+.bib-btn {
+  margin-bottom: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #007A87;
+  color: #FFFFFF;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.bib-button-container {
+  margin-top: 10px;
+}
+
+.bib-box {
+  box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1);
+  background-color: #F8FBFC;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  color: #1A1A1A;
 }
 
 /*# sourceMappingURL=styles.css.map */

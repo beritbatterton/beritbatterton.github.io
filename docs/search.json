@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "{% for topic in site.data.research %}\n\n\n\n\n\n\n\n\n\n\nDescription: {{topic.description}}\n\n\n\n\n{% endfor %}"
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Research",
+    "section": "",
+    "text": "{% for topic in site.data.research %}\n\n\n\n\n\n\n\n\n\n\nDescription: {{topic.description}}\n\n\n\n\n{% endfor %}"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Invited talks\n\n\n1. Rempel, H. S., Batterton, B. E., & Neill, C. M. (2025). Inclusive teaching and outreach. Workshop.\n\n\n2. Batterton, B. E., & Dunton, K. H. (2024). Beyond a reasonable drought: Monitoring the health of texas’ salt marshes. Seminar.\n\n\n3. Batterton, B. E., & Dunton, K. H. (2023). Shifts in vegetation diversity and abundance in a texas coastal bend marsh. Lightning talk.\n\n\n\n\nRegular talks\n\n\n1. Batterton, B. E., & Dunton, K. H. (2025). Beyond species means: How intraspecific trait variation shapes carbon dynamics in salt marsh plants. Oral.\n\n\n2. Batterton, B. E., & Dunton, K. H. (2025). Landscape-scale biophysical controls on salt marsh blue carbon variability and fate under future climate change. Oral.\n\n\n3. Batterton, B. E., & Dunton, K. H. (2024). Impacts of regional climate change on south texas marsh vegetation dynamics. Oral.\n\n\n4. Ulatowski, M., Batterton, B. E., Guo, C., Cabraal, S., Missik, J. E., & Matheny, A. M. (2024). Coastal marsh dynamics: A comparison of productivity and water use in marsh grasses and mangroves on the texas gulf coast. Poster.\n\n\n5. Batterton, B. E., & Dunton, K. H. (2023). Long-term marsh vegetation community dynamics in the nueces delta (TX, USA) are driven by climate change. Oral.\n\n\n6. Batterton, B. E., Rempel, H. S., & Dunton, K. H. (2023). Benefits of a long-term university and k-12 partnership for coastal science education. Oral.\n\n\n7. Batterton, B. E., & Dunton, K. H. (2022). Climate-driven alterations in freshwater inflows impact texas coastal marshes. Oral.\n\n\n8. Batterton, B. E., & Dunton, K. H. (2022). Long-term lack of liquids limits leafy life in lavaca marsh. Poster.\n\n\n9. Batterton, B. E., & Dmochowski, J. E. (2020). Impacts of upstream dam sediment capacity on seagrass through coupled remote sensing and in-situ data. Oral.\n\n\n10. Batterton, B. E., & Dmochowski, J. E. (2019). Using seagrass as an indicator of the health of the chesapeake bay. Oral."
+  },
+  {
+    "objectID": "grouped_citations.html",
+    "href": "grouped_citations.html",
+    "title": "Berit E. Batterton",
+    "section": "",
+    "text": "Rempel, H. S. … Neill, C. M. ((2025). Inclusive teaching and outreach [Workshop]. Workshop. ) Batterton, B. E. ((2023). Shifts in vegetation diversity and abundance in a texas coastal bend marsh [Lightning talk]. Lightning talk. ) Batterton, B. E. ((2024). Beyond a reasonable drought: Monitoring the health of texas’ salt marshes [Seminar]. Seminar. )\n\n1. Batterton, B. E. (2025). Beyond species means: How intraspecific trait variation shapes carbon dynamics in salt marsh plants [Oral]. Oral.\n\n\n2. Batterton, B. E. (2025). Landscape-scale biophysical controls on salt marsh blue carbon variability and fate under future climate change [Oral]. Oral.\n\n\n3. Capistrant-Fossa, K. A., Batterton, B. E., & Dunton, K. H. (2025). Submerged aquatic vegetation, marshes, and mangroves. In P. A. Montagna & A. R. Douglas (Eds.), Freshwater inflows to texas bays and estuaries: A regional-scale review, synthesis, and recommendations (pp. 231–257). Springer Cham. https://doi.org/10.1007/978-3-031-70882-4_10\n\n\n4. Rempel, H. S., Batterton, B. E., & Neill, C. M. (2025). Inclusive teaching and outreach [Workshop]. Workshop.\n\n\n5. Batterton, B. E. (2024). Beyond a reasonable drought: Monitoring the health of texas’ salt marshes [Seminar]. Seminar.\n\n\n6. Batterton, B. E. (2024). Impacts of regional climate change on south texas marsh vegetation dynamics [Oral]. Oral.\n\n\n7. Batterton, B. E., Neill, C. M., Biggs, C. R., & Rempel, H. S. (2024). A framework for training graduate students and campus communities in inclusive teaching. Journal of Microbiology & Biology Education, 25(3), e00125–24. https://doi.org/10.1128/jmbe.00125-24\n\n\n8. Batterton, B. E., Person, M. A., & Dunton, K. H. (2024). Use of historical data to assess climate change effects: Nueces delta (Final Report to Coastal Bend Bays and Estuaries Program 184; p. 43). University of Texas at Austin Marine Science Institute.\n\n\n9. Batterton, B. E., Swanson, K., & Dunton, K. H. (2024). Relative sea level rise and habitat assessment in the nueces delta. Coastal Bend Bays; Estuaries Program.\n\n\n10. Ulatowski, M. (2024). Coastal marsh dynamics: A comparison of productivity and water use in marsh grasses and mangroves on the texas gulf coast [Poster]. Poster.\n\n\n11. Rempel, H. S., Batterton, B. E., Neill, C. M., & Biggs, C. R. (2024). 4-5th grade lesson on the amazing adaptations of earth’s organisms. OER Commons. https://oercommons.org/courseware/lesson/117333\n\n\n12. Batterton, B. E. (2023). Benefits of a long-term university and k-12 partnership for coastal science education [Oral]. Oral.\n\n\n13. Batterton, B. E. (2023). Joys of marsh field work. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/joys-of-marsh-field-work/\n\n\n14. Batterton, B. E. (2023). Long-term marsh vegetation community dynamics in the nueces delta (TX, USA) are driven by climate change [Oral]. Oral.\n\n\n15. Batterton, B. E. (2023). Please send my thanks to the kids. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/please-send-my-thanks-to-the-kids/\n\n\n16. Batterton, B. E. (2023). Shifts in vegetation diversity and abundance in a texas coastal bend marsh [Lightning talk]. Lightning talk.\n\n\n17. Batterton, B. E., Swanson, K., & Dunton, K. H. (2023). Relative sea level rise and habitat assessment in the nueces delta (Final Report to Coastal Bend Bays and Estuaries Program 163; p. 23). University of Texas at Austin Marine Science Institute.\n\n\n18. Batterton, B. E. (2022). Climate-driven alterations in freshwater inflows impact texas coastal marshes [Oral]. Oral.\n\n\n19. Batterton, B. E. (2022). Long-term lack of liquids limits leafy life in lavaca marsh [Poster]. Poster.\n\n\n20. Batterton, B. E., & Dunton, K. H. (2022). Lavaca river delta marsh assessment (Final Report to Texas Water Development Board 2000012439; p. 109). University of Texas at Austin Marine Science Institute.\n\n\n21. Batterton, B. E. (2020). Impacts of upstream dam sediment capacity on seagrass through coupled remote sensing and in-situ data [Oral]. Oral.\n\n\n22. Batterton, B. E. (2019). Using seagrass as an indicator of the health of the chesapeake bay [Oral]. Oral."
+  },
+  {
+    "objectID": "grouped_citations.html#invited",
+    "href": "grouped_citations.html#invited",
+    "title": "Berit E. Batterton",
+    "section": "",
+    "text": "Rempel, H. S. … Neill, C. M. ((2025). Inclusive teaching and outreach [Workshop]. Workshop. ) Batterton, B. E. ((2023). Shifts in vegetation diversity and abundance in a texas coastal bend marsh [Lightning talk]. Lightning talk. ) Batterton, B. E. ((2024). Beyond a reasonable drought: Monitoring the health of texas’ salt marshes [Seminar]. Seminar. )\n\n1. Batterton, B. E. (2025). Beyond species means: How intraspecific trait variation shapes carbon dynamics in salt marsh plants [Oral]. Oral.\n\n\n2. Batterton, B. E. (2025). Landscape-scale biophysical controls on salt marsh blue carbon variability and fate under future climate change [Oral]. Oral.\n\n\n3. Capistrant-Fossa, K. A., Batterton, B. E., & Dunton, K. H. (2025). Submerged aquatic vegetation, marshes, and mangroves. In P. A. Montagna & A. R. Douglas (Eds.), Freshwater inflows to texas bays and estuaries: A regional-scale review, synthesis, and recommendations (pp. 231–257). Springer Cham. https://doi.org/10.1007/978-3-031-70882-4_10\n\n\n4. Rempel, H. S., Batterton, B. E., & Neill, C. M. (2025). Inclusive teaching and outreach [Workshop]. Workshop.\n\n\n5. Batterton, B. E. (2024). Beyond a reasonable drought: Monitoring the health of texas’ salt marshes [Seminar]. Seminar.\n\n\n6. Batterton, B. E. (2024). Impacts of regional climate change on south texas marsh vegetation dynamics [Oral]. Oral.\n\n\n7. Batterton, B. E., Neill, C. M., Biggs, C. R., & Rempel, H. S. (2024). A framework for training graduate students and campus communities in inclusive teaching. Journal of Microbiology & Biology Education, 25(3), e00125–24. https://doi.org/10.1128/jmbe.00125-24\n\n\n8. Batterton, B. E., Person, M. A., & Dunton, K. H. (2024). Use of historical data to assess climate change effects: Nueces delta (Final Report to Coastal Bend Bays and Estuaries Program 184; p. 43). University of Texas at Austin Marine Science Institute.\n\n\n9. Batterton, B. E., Swanson, K., & Dunton, K. H. (2024). Relative sea level rise and habitat assessment in the nueces delta. Coastal Bend Bays; Estuaries Program.\n\n\n10. Ulatowski, M. (2024). Coastal marsh dynamics: A comparison of productivity and water use in marsh grasses and mangroves on the texas gulf coast [Poster]. Poster.\n\n\n11. Rempel, H. S., Batterton, B. E., Neill, C. M., & Biggs, C. R. (2024). 4-5th grade lesson on the amazing adaptations of earth’s organisms. OER Commons. https://oercommons.org/courseware/lesson/117333\n\n\n12. Batterton, B. E. (2023). Benefits of a long-term university and k-12 partnership for coastal science education [Oral]. Oral.\n\n\n13. Batterton, B. E. (2023). Joys of marsh field work. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/joys-of-marsh-field-work/\n\n\n14. Batterton, B. E. (2023). Long-term marsh vegetation community dynamics in the nueces delta (TX, USA) are driven by climate change [Oral]. Oral.\n\n\n15. Batterton, B. E. (2023). Please send my thanks to the kids. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/please-send-my-thanks-to-the-kids/\n\n\n16. Batterton, B. E. (2023). Shifts in vegetation diversity and abundance in a texas coastal bend marsh [Lightning talk]. Lightning talk.\n\n\n17. Batterton, B. E., Swanson, K., & Dunton, K. H. (2023). Relative sea level rise and habitat assessment in the nueces delta (Final Report to Coastal Bend Bays and Estuaries Program 163; p. 23). University of Texas at Austin Marine Science Institute.\n\n\n18. Batterton, B. E. (2022). Climate-driven alterations in freshwater inflows impact texas coastal marshes [Oral]. Oral.\n\n\n19. Batterton, B. E. (2022). Long-term lack of liquids limits leafy life in lavaca marsh [Poster]. Poster.\n\n\n20. Batterton, B. E., & Dunton, K. H. (2022). Lavaca river delta marsh assessment (Final Report to Texas Water Development Board 2000012439; p. 109). University of Texas at Austin Marine Science Institute.\n\n\n21. Batterton, B. E. (2020). Impacts of upstream dam sediment capacity on seagrass through coupled remote sensing and in-situ data [Oral]. Oral.\n\n\n22. Batterton, B. E. (2019). Using seagrass as an indicator of the health of the chesapeake bay [Oral]. Oral."
+  },
+  {
+    "objectID": "grouped_citations.html#misc",
+    "href": "grouped_citations.html#misc",
+    "title": "Berit E. Batterton",
+    "section": "Misc",
+    "text": "Misc\n\nBatterton, B. E. ((2023). Please send my thanks to the kids. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/please-send-my-thanks-to-the-kids/) Batterton, B. E. ((2023). Joys of marsh field work. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/joys-of-marsh-field-work/) Rempel, H. S. … Biggs, C. R. ((2024). 4-5th grade lesson on the amazing adaptations of earth’s organisms. OER Commons. https://oercommons.org/courseware/lesson/117333)"
+  },
+  {
+    "objectID": "grouped_citations.html#other",
+    "href": "grouped_citations.html#other",
+    "title": "Berit E. Batterton",
+    "section": "Other",
+    "text": "Other\n\nBatterton, B. E., & Dunton, K. H. ((2022). Lavaca river delta marsh assessment (Final Report to Texas Water Development Board 2000012439; p. 109). University of Texas at Austin Marine Science Institute. ) Batterton, B. E. … Dunton, K. H. ((2023). Relative sea level rise and habitat assessment in the nueces delta (Final Report to Coastal Bend Bays and Estuaries Program 163; p. 23). University of Texas at Austin Marine Science Institute. ) Batterton, B. E. … Dunton, K. H. ((2024). Use of historical data to assess climate change effects: Nueces delta (Final Report to Coastal Bend Bays and Estuaries Program 184; p. 43). University of Texas at Austin Marine Science Institute. ) Batterton, B. E. … Dunton, K. H. ((2024). Relative sea level rise and habitat assessment in the nueces delta. Coastal Bend Bays; Estuaries Program. )"
+  },
+  {
+    "objectID": "grouped_citations.html#pres",
+    "href": "grouped_citations.html#pres",
+    "title": "Berit E. Batterton",
+    "section": "Pres",
+    "text": "Pres\n\nRempel, H. S. … Neill, C. M. ((2025). Inclusive teaching and outreach [Workshop]. Workshop. ) Batterton, B. E. ((2025). Beyond species means: How intraspecific trait variation shapes carbon dynamics in salt marsh plants [Oral]. Oral. ) Batterton, B. E. ((2025). Landscape-scale biophysical controls on salt marsh blue carbon variability and fate under future climate change [Oral]. Oral. ) Ulatowski, M. ((2024). Coastal marsh dynamics: A comparison of productivity and water use in marsh grasses and mangroves on the texas gulf coast [Poster]. Poster. ) Batterton, B. E. ((2019). Using seagrass as an indicator of the health of the chesapeake bay [Oral]. Oral. ) Batterton, B. E. ((2020). Impacts of upstream dam sediment capacity on seagrass through coupled remote sensing and in-situ data [Oral]. Oral. ) Batterton, B. E. ((2022). Climate-driven alterations in freshwater inflows impact texas coastal marshes [Oral]. Oral. ) Batterton, B. E. ((2022). Long-term lack of liquids limits leafy life in lavaca marsh [Poster]. Poster. ) Batterton, B. E. ((2023). Shifts in vegetation diversity and abundance in a texas coastal bend marsh [Lightning talk]. Lightning talk. ) Batterton, B. E. ((2023). Long-term marsh vegetation community dynamics in the nueces delta (TX, USA) are driven by climate change [Oral]. Oral. ) Batterton, B. E. ((2023). Benefits of a long-term university and k-12 partnership for coastal science education [Oral]. Oral. ) Batterton, B. E. ((2024). Impacts of regional climate change on south texas marsh vegetation dynamics [Oral]. Oral. ) Batterton, B. E. ((2024). Beyond a reasonable drought: Monitoring the health of texas’ salt marshes [Seminar]. Seminar. )"
+  },
+  {
+    "objectID": "grouped_citations.html#rev",
+    "href": "grouped_citations.html#rev",
+    "title": "Berit E. Batterton",
+    "section": "Rev",
+    "text": "Rev\n\nBatterton, B. E. … Rempel, H. S. ((2024). A framework for training graduate students and campus communities in inclusive teaching. Journal of Microbiology & Biology Education, 25(3), e00125–24. https://doi.org/10.1128/jmbe.00125-24) Capistrant-Fossa, K. A. … Dunton, K. H. ((2025). Submerged aquatic vegetation, marshes, and mangroves. In P. A. Montagna & A. R. Douglas (Eds.), Freshwater inflows to texas bays and estuaries: A regional-scale review, synthesis, and recommendations (pp. 231–257). Springer Cham. https://doi.org/10.1007/978-3-031-70882-4_10)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "PhD (2020 – 2026) University of Texas at Austin, Marine Science Institute\nSupervisor: Dr. Kenneth H. Dunton\nThesis: Climate change impacts on carbon and water dynamics in Texas’ estuarine marshes\nBA (2016 – 2020) University of Pennsylvania, Honors Environmental Science and Biology\nSupervisor: Dr. Jane Dmochowski\nThesis: Using remote sensing to study effects of dam sediment capacity on seagrass in the Chesapeake Bay"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "PhD (2020 – 2026) University of Texas at Austin, Marine Science Institute\nSupervisor: Dr. Kenneth H. Dunton\nThesis: Climate change impacts on carbon and water dynamics in Texas’ estuarine marshes\nBA (2016 – 2020) University of Pennsylvania, Honors Environmental Science and Biology\nSupervisor: Dr. Jane Dmochowski\nThesis: Using remote sensing to study effects of dam sediment capacity on seagrass in the Chesapeake Bay"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nGraduate Research Assistant (2020 – 2025) University of Texas at Austin, Marine Science\nSupervisor: Dr. Kenneth H. Dunton\nUndergraduate Research Assistant (2019 – 2020) University of Pennsylvania, Earth & Environmental Sciences\nSupervisor: Dr. Jane Dmochowski\nUndergraduate Research Assistant (2018 – 2019) University of Pennsylvania, Biology\nSupervisor: Dr. Nick Betley"
+  },
+  {
+    "objectID": "cv.html#academic-activities",
+    "href": "cv.html#academic-activities",
+    "title": "CV",
+    "section": "Academic Activities",
+    "text": "Academic Activities\n\nProfessional Service\n2023-present Ad-Hoc Reviewer, Aquatic Botany\n2024 Graduate Education Improvement Committee, University of Texas Marine Science Institute\n2023–2024 Abstract Review Committee, Society for Wetland Scientists Student Virtual Conference\n2023-2024 President, University of Texas Marine Science Institute Graduate Student Association\n2023-2024 Dean’s Office Graduate Council, University of Texas at Austin\n2023-2024 “Emerging Voices in Botany” Special Issue Award Review Panel, Annals of Botany Plants\n2022-2023 Vice President, University of Texas Marine Science Institute Graduate Student Association\n2022 Interim Marine Science Coordinator, University of Texas at Austin\n2021-2022 Social Coordinator, University of Texas Marine Science Institute Graduate Student Association\n\n\nProfessional Societies\n\nEcological Society of America\nAssociation for the Sciences of Limnology and Oceanography\nCoastal and Estuarine Research Federation\nEcological Forecasting Initiative\nSociety for Wetland Scientists\nInternational Association for Vegetation Science\nNational Marine Educators Association\nSociety for Open, Reliable, and Transparent Ecology and Evolutionary Biology\nSociety for Women in Marine Science"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "(2026) Ph.D. Marine Science, University of Texas at Austin\n(2020) B.A. Environmental Science, Biology, University of Pennsylvania\n\n\n\n\n\n\n\n\n\n\nClimate and restoration-driven habitat change: Nueces Delta (2024 – 2025; $55,500)\nRelative sea level rise and habitat assessment in the Nueces Delta (2024 – 2025; $7,100)\nUse of historical data to assess climate change effects on marsh vegetation: Nueces Delta (2023 – 2024; $54,000)\nRelative sea level rise and habitat assessment in the Nueces Delta (2023 – 2024; $7,000)\nInstructor Learning Community Grant- Developing inclusive teaching frameworks for campus and community STEAM education (2023 – 2024; $2,500)\nRelative sea level rise and habitat assessment in the Nueces Delta (2022 – 2023; $7,000)\nStudents as Partners Grant- Revising undergraduate research curriculum at the UT Austin Marine Science Institute (2022 – 2023; $1,000)\nSmall pond inventory pilot study (2022; $7,000)\nLavaca River Delta marsh assessment (2020 – 2022; $75,000)\n\n\n\n\n\n\n\nUniversity of Texas at Austin University Graduate Continuing Fellowship (2024 – 2025)\nUniversity of Texas Marine Science Institute Marine Science Research Award (2022 – 2025)\nUniversity of Texas at Austin Graduate School Summer Fellowship (2023)\n\n\n\n\n\n\n\nThe Honor Society of Phi Kappa Phi (2025 – present)\nAmerican Philosophical Society Lewis & Clark Fund for Exploration and Field Research Grant (2024 – 2025)\nTexas Gulf Coast Research Center Predoctoral Award (2024 – 2025)\nUniversity of Texas Marine Science Institute Student Research Excellence Award (2025)\nCoastal Conservation Association Scholarship (2023)\nTexas Chapter of the American Fisheries Society Student Scholarship (2023)\nSouthern Association of Marine Laboratories Larry Pomeroy Student Support Award (2023)\nCoastal and Estuarine Research Federation Conference Travel Grant (2022 & 2023)\nNational Science Foundation Graduate Research Fellowship Program Honorable Mention (2022)\nUniversity of Texas at Austin Graduate School Professional Development Award (2022)\nUniversity of Pennsylvania Rosalie Gilles Scholarship (2018 – 2020)\nUniversity of Pennsylvania James & Gail Riepe Scholarship (2016 – 2020)\nUniversity of Pennsylvania Fritzi K. Hallock Scholarship (2016 – 2020)\nUniversity of Pennsylvania Hayden Scholars Research Scholarship (2019)\nNational Fastpitch Coaches Association Scholar-Athlete All-America (2017, 2019)"
+  },
+  {
+    "objectID": "about.html#section-1",
+    "href": "about.html#section-1",
+    "title": "About",
+    "section": "",
+    "text": "(2026) Ph.D. Marine Science, University of Texas at Austin\n(2020) B.A. Environmental Science, Biology, University of Pennsylvania"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Datasets\n{% bibliography –query (misc?, keywords ^= dataset) %}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Berit E. Batterton",
+    "section": "",
+    "text": "Berit Batterton\n\nPhD Candidate · Coastal Plant Ecology & Biogeochemistry\nView CV\nContact\n\n\n\nWelcome!\nHi, I’m Berit Batterton, a PhD Candidate at the University of Texas at Austin Marine Science Institute.\nI study how coastal salt marsh ecosystems respond to climate change, with a focus on vegetation dynamics and carbon cycling. My research combines long-term ecological monitoring, plant functional traits, and remote sensing to understand how drought, sea-level rise, and freshwater availability affect salt marsh plant communities and their capacity to sequester carbon. I investigate these dynamics across multiple spatial and temporal scales — from physiological trait variation within species to landscape-scale carbon stock modeling — primarily in estuarine marshes along the Texas coast. This work supports efforts to predict marsh responses to future climate scenarios and inform restoration and management strategies in vulnerable coastal systems.\n→ Curious about my work? Learn more about me, explore my research and CV, or catch up on recent updates from the field."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Peer-Reviewed Articles & Chapters\n\n\n1. Capistrant-Fossa, K. A., Batterton, B. E., & Dunton, K. H. (2025). Submerged aquatic vegetation, marshes, and mangroves. In P. A. Montagna & A. R. Douglas (Eds.), Freshwater Inflows to Texas Bays and Estuaries: A Regional-Scale Review, Synthesis, and Recommendations (pp. 231–257). Springer Cham. https://doi.org/10.1007/978-3-031-70882-4_10\n\n\n2. Batterton, B. E., Neill, C. M., Biggs, C. R., & Rempel, H. S. (2024). A framework for training graduate students and campus communities in inclusive teaching. Journal of Microbiology & Biology Education, 25(3), e00125–24. https://doi.org/10.1128/jmbe.00125-24\n\n\n\n\nTechnical Reports, Etc.\n\n\n1. Batterton, B. E., Person, M. A., & Dunton, K. H. (2024). Use of historical data to assess climate change effects: Nueces Delta (Final Report to Coastal Bend Bays and Estuaries Program 184; p. 43). University of Texas at Austin Marine Science Institute.\n\n\n2. Batterton, B. E., Swanson, K., & Dunton, K. H. (2024). Relative sea level rise and habitat assessment in the Nueces Delta [Final Report to Coastal Bend Bays and Estuaries Program]. University of Texas at Austin Marine Science Institute.\n\n\n3. Batterton, B. E., Swanson, K., & Dunton, K. H. (2023). Relative sea level rise and habitat assessment in the Nueces Delta (Final Report to Coastal Bend Bays and Estuaries Program 163; p. 23). University of Texas at Austin Marine Science Institute.\n\n\n4. Batterton, B. E., & Dunton, K. H. (2022). Lavaca River Delta marsh assessment (Final Report to Texas Water Development Board 2000012439; p. 109). University of Texas at Austin Marine Science Institute.\n\n\n\n\nMiscellaneous\n\n\n1. Rempel, H. S., Batterton, B. E., Neill, C. M., & Biggs, C. R. (2024). 4-5th grade lesson on the amazing adaptations of earth’s organisms. OER Commons. https://oercommons.org/courseware/lesson/117333\n\n\n2. Batterton, B. E. (2023). Joys of marsh field work. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/joys-of-marsh-field-work/\n\n\n3. Batterton, B. E. (2023). Please send my thanks to the kids. Port Aransas South Jetty. https://www.portasouthjetty.com/articles/please-send-my-thanks-to-the-kids/"
+  }
+]
